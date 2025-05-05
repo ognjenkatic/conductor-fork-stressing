@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ConductorSharp.Engine" Version="3.5.0" />
+    <PackageReference Include="ConductorSharp.Engine" Version="3.6.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.4" />
   </ItemGroup>
 
